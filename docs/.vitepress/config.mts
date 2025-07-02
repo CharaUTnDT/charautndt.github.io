@@ -37,6 +37,7 @@ export default defineConfig({
         items: [
           { text: "What is LinuxDBAssistant?", link: "/linuxdbassistant/linux-db-assistant" },
           { text: "How to use it", link: "/linuxdbassistant/how-to-use-it" },
+          { text: "Unsupported Distros", link: "/linuxdbassistant/unsupported-distros" },
         ],
       },
     ],
